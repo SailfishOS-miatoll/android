@@ -19,7 +19,7 @@
            sync-j="16" />
 
   <!-- Hybris repos -->
-  <project path="hybris-patches" name="mer-hybris/hybris-patches" revision="hybris-18.1" />
+  <project path="hybris-patches" name="SailfishOS-miatoll/hybris-patches" revision="hybris-18.1" />
   <project path="hybris/hybris-boot" name="SailfishOS-miatoll/hybris-boot" revision="master" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
