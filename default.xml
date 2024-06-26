@@ -22,6 +22,7 @@
   <project path="hybris-patches" name="SailfishOS-miatoll/hybris-patches" revision="hybris-18.1" />
   <project path="hybris/hybris-boot" name="SailfishOS-miatoll/hybris-boot" revision="master" />
   <project path="hybris/mer-kernel-check" name="mer-hybris/mer-kernel-check" revision="master" />
+  <project path="hybris/mw/libhybris" name="libhybris/libhybris" revision="master" />
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
   <project path="external/busybox" name="mer-hybris/android_external_busybox_prebuilt" revision="master" />
   <project path="external/selinux_stubs" name="mer-hybris/android_external_selinux_stubs" revision="master" />
